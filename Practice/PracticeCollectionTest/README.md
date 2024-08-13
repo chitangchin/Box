@@ -1,10 +1,11 @@
-# Collection of Unit tests
+## Collection of Unit tests
 
-REGEX
-- [RegexReplace-8/12/2024](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/Regex/RegexReplaceTest.cs)
+#### REGEX
 
-Methods
-- [SplitMethod-8/12/2024](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/Methods/SplitMethodTest.cs)
+- [RegexReplace](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/Regex/RegexReplaceTest.cs) - 8/12/2024 
 
-OOP
-- [MockBankAccount-8/13/2024](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/OOP/MockBankAccountTest.cs)
+#### Methods
+- [SplitMethod](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/Methods/SplitMethodTest.cs) - 8/12/2024 
+
+#### OOP
+- [MockBankAccount](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/OOP/MockBankAccountTest.cs) - 8/13/2024 
