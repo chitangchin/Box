@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PracticeCollection.OOPMockBankAcc
+namespace PracticeCollection.OOP
 {
     public class MockBankAccount(string name, decimal initialBalance)
     {

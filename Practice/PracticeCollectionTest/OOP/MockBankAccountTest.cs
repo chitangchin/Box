@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PracticeCollectionTest.OOP.MockBankAccount
+namespace PracticeCollectionTest.OOP
 {
-    using PracticeCollection.OOPMockBankAcc;
+    using PracticeCollection.OOP;
     public static class MockBankAccountTests
     {
         [Test]
