@@ -1,5 +1,10 @@
 # Collection of Unit tests
 
-8/12/2024 Tests
-- [RegexReplace](https://github.com/chitangchin/CSharpPractice/blob/master/C%23SandBoxTest/RegexReplaceTest.cs)
-- [SplitMethod](https://github.com/chitangchin/CSharpPractice/blob/master/C%23SandBoxTest/SplitMethodTest.cs)
+REGEX
+- [RegexReplace-8/12/2024](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/Regex/RegexReplaceTest.cs)
+
+Methods
+- [SplitMethod-8/12/2024](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/Methods/SplitMethodTest.cs)
+
+OOP
+- [MockBankAccount-8/13/2024](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/OOP/MockBankAccountTest.cs)
