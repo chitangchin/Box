@@ -1,4 +1,4 @@
-## Collection of Unit tests
+## Unit Tests Index
 
 #### Methods
 - [SplitMethod](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest/Methods/SplitMethodTest.cs) - 8/12/2024 
