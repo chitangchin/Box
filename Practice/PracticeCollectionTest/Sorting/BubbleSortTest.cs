@@ -4,9 +4,8 @@ namespace PracticeCollectionTest.Sorting
 {
     public class BubbleSortTest
     {
-        private static readonly int[] expected = new int[] { 1, 2, 3 };
-        private static readonly int[] expectedArray = new int[] { 1, 2, 3, 4, 6, 8 };
-
+        private static readonly int[] expected = [1, 2, 3];
+        private static readonly int[] expectedArray = [1, 2, 3, 4, 6, 8];
         [Test]
         public void Test()
         {

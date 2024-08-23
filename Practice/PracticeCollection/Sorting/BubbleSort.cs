@@ -4,7 +4,7 @@
     {
         public static int[] BubbleSort(int[] nums)
         {
-            //Double loop where we check j and j+1 and swap if lower then we iterate againg
+            //Iterate through nums
             for (int i = 0; i < nums.Length; i++)
             {
                 for (int j = 0; j < nums.Length - 1; j++)
